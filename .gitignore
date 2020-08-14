@@ -1,0 +1,15 @@
+# PhpStorm Config Files
+.idea/
+
+# VsCode Config Files
+.vscode/
+
+# Dependency Directories
+node_modules/
+
+# Dotenv Environment Variables File
+.env
+.env.test
+
+
+
